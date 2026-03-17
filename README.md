@@ -9,7 +9,7 @@ pkg update && pkg upgrade
 ​Install core dependencies:
 pkg install python rust openssl libffi ncurses-utils libjpeg-turbo
 ​Install mitmproxy via pip:
-pip install mitmproxy
+pip install mitmproxy 
 ​Launch to generate certificates:
 mitmproxy (Press Ctrl+C to exit once it starts).
 ​Install the certificate:
